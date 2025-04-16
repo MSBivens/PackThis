@@ -18,6 +18,12 @@ header {
     margin-bottom: 20px;
 }
 
+header p {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 main {
     margin-bottom: auto;
 }
